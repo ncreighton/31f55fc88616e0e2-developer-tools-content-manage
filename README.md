@@ -1,0 +1,2 @@
+# 31f55fc88616e0e2-developer-tools-content-manage
+Professional developer tools browser extension — without the professional price tag.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Developer Tools Content Management And Publishing — fully configured and ready to use - One-click activation
